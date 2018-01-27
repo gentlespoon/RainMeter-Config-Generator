@@ -182,7 +182,7 @@ Text=Disk
 # DISPLAY
 
 labelY = 40
-barY = 55
+barY = 52
 
 
 for drive in drives:
@@ -220,8 +220,8 @@ W=190
 H=1
 
 """)
-  labelY += 30
-  barY += 30
+  labelY += 20
+  barY += 20
 
 
 
